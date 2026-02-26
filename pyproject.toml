@@ -3,7 +3,7 @@ name = "cs168-things"
 version = "0.1.0"
 description = "prokects for cs168"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
 ]
 
